@@ -1,0 +1,31 @@
+
+body {
+  background-color: #E8ECEF;
+}
+h1{
+  text-align: center;
+}
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.container-fluid{
+  padding: 12% 37% 0%;
+}
+.card{
+padding: 10px 12px;
+border-radius: 10px;
+}
+.btn{
+  margin-top: 15px;
+}
+.secret{
+  padding:10% 20%;
+}
